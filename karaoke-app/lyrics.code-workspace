@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "lyrics",
+			"path": "../../Desktop/lyrics"
+		},
+		{
+			"name": "songs",
+			"path": "../../Desktop/songs"
+		},
+		{
+			"name": "karaoke-app",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "karaoke-app"
+	}
+}
